@@ -58,7 +58,7 @@ echo " <table>
 ?>
 
 <h1>4. Take a screenshot  </h1>
-<img src="image.png" alt="Screenshoot" width="500px" height="400px" >
+<img src="images/image.png" alt="Screenshoot" width="500px" height="400px" >
 
 <h1></h1>
 

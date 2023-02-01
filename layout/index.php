@@ -1,4 +1,6 @@
-<?php include "header.php" ?>
+<?php
+$title = "Home page";
+include "header.php" ?>
 <h1>Some Content</h1>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab, dolores nesciunt saepe explicabo nobis nihil provident
     cumque sapiente atque consequatur, voluptatem debitis culpa neque ut, aliquam hic blanditiis quia tenetur.</p>

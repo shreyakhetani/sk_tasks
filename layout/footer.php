@@ -46,8 +46,22 @@
             <a class="link" href="mailto:amarillo@gmail.com">amarillo@gmail.com</a>
           </p>
         </div>
+
+        <div class="row" >
+      <p> &copy; 2020 Copyright</p>
+    </div>
+    <div class="row" style=" padding-left: 37%;">
+      <?php
+      $name = $_SERVER['PHP_SELF'];
+      $filename = basename($name);
+      echo "last modified: " . date ("F d Y H:i:s.", filemtime($filename));
+      ?>
+    </div>
       </div>
     </div>
+
+    
+
   </footer>
   <!--footer-->
   </div>

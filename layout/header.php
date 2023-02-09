@@ -75,6 +75,10 @@
               </li>
 
               <li class="nav-item">
+                <a class="nav-link" href="arrays.php">Exercise 5</a>
+              </li>
+
+              <li class="nav-item">
                 <a class="nav-link" href="contactus.php">Contact Us</a>
               </li>
               <li class="nav-item">

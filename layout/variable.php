@@ -27,8 +27,6 @@ include "header.php" ?>
         <div class="row">
         <input type="submit" value="submit">
         </div>
-
-  
 </form>
 
 <h2>3. Prepare a simple html table and apply bootstrap style to the table</h2>
